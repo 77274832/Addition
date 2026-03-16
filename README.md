@@ -1,2 +1,2 @@
 # Addition
-to add given numbers in java
+sum of the given numbers
